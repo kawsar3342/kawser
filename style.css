@@ -1,0 +1,150 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    margin-left: 20px;
+
+}
+h1{
+    font-size: 40px;
+    color:orangered;
+}
+.button{
+    text-decoration: none;
+    color:white;
+    font-size: 16px;
+    background-color: rgb(158, 216, 0);
+    padding: 12px 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, yellow, salmon);
+
+}
+.button1{
+    padding-top: 40px;
+}
+.frist-step{
+    width: 40%;
+    float: left;
+    margin-top: 5px;
+}
+.frist-step img{
+    margin-top: 5px;
+    margin-left: px;
+    width: 70%;
+
+}
+.frist-section{
+    background: url('header-bg.png');
+    background-repeat: no-repeat;
+} 
+.second-step{
+    width: 100%;
+}
+.Dream-aim{
+    width: 40%;
+    float: left;
+    margin-top: 5px;
+
+}
+.second-section{
+    padding-top: 100px;
+    background: url('biography-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second-step img{
+    margin-top: 5px;
+    margin-left: px;
+    width: 70%;
+}  
+.third-step{
+    margin-top: -1px;
+    float: left;
+    width: 100%;
+    padding: 80px 0;
+    background: url('latest-work-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.work-item{
+    float: left;
+    width: 33.33%;
+    padding: 30px;
+}
+.work h2{
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #202428;
+    padding-bottom: 40px;
+}
+.last-step{
+    float: left;
+    width: 100%;
+    padding: 100px 0;
+    background: url('footer-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.about-data{
+    text-align: center;
+}
+.about-data h2{
+    font-weight: 600;
+    font-size: 35px;
+    text-transform: capitalize;
+    color: #202428;
+    padding-bottom: 50px;
+}
+.about-data h4{
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: capitalize;
+    color: #202428;
+}
+.about-data h5{
+    font-weight: 400;
+    font-size: 22px;
+    text-transform: capitalize;
+    color: #707070;
+    margin-bottom: 40px;
+}
+.about-data p{
+    font-size: 18px;
+    color: #202428;
+}
+.contact{
+    width: 700px;
+    background: linear-gradient(45deg,#EC4F91, #ED4B73);
+    padding: 30px;
+    color: #fff;
+    border-radius: 5px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+}
+.contact p{
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.contact h4{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+}
+
+ /* .footer p{ 
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+    padding: 25px 0; 
+} */
